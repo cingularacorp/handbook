@@ -20,7 +20,7 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * [Self Development](https://github.com/cingularacorp/handbook/tree/master/people#self-development)
     * [Impactful Books to Read/Study](https://github.com/cingularacorp/handbook/tree/master/people#impactful-books-to-readstudy)
 
-## [Technology]((https://github.com/cingularacorp/handbook/blob/master/technology/README.md)
+## [Technology](https://github.com/cingularacorp/handbook/blob/master/technology/README.md)
 * [Email, Online Docs, Video Conferencing](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#email-online-docs-video-conferencing)
 * [Slack](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#slack)
 * [Timesheet](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#timesheet)
