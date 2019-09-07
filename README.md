@@ -18,7 +18,7 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * [Continuous Learning](https://github.com/cingularacorp/handbook/tree/master/people#continuous-learning)
 * [Dress Code](https://github.com/cingularacorp/handbook/tree/master/people#dress-code)
 * [Self Development](https://github.com/cingularacorp/handbook/tree/master/people#self-development)
-    * [Impactful Books to Read/Study]
+    * [Impactful Books to Read/Study](https://github.com/cingularacorp/handbook/tree/master/people#impactful-books-to-readstudy)
 
 ## Technology
 * Email
