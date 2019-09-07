@@ -21,10 +21,11 @@ This is the employee and consultant handbook for the Cingulara company. This goe
     * [Impactful Books to Read/Study](https://github.com/cingularacorp/handbook/tree/master/people#impactful-books-to-readstudy)
 
 ## Technology
-* Email
-* Timesheet
-* Projects
-* AWS
+* [Email, Online Docs, Video Conferencing](https://github.com/cingularacorp/handbook/blob/master/technology/README.md)
+* [Slack](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#slack)
+* [Timesheet](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#timesheet)
+* [Projects](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#projects)
+* [AWS](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#aws)
 
 ## Marketing
 * Website
