@@ -20,14 +20,14 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * [Self Development](https://github.com/cingularacorp/handbook/tree/master/people#self-development)
     * [Impactful Books to Read/Study](https://github.com/cingularacorp/handbook/tree/master/people#impactful-books-to-readstudy)
 
-## Technology
+## [Technology]((https://github.com/cingularacorp/handbook/blob/master/technology/README.md)
 * [Email, Online Docs, Video Conferencing](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#email-online-docs-video-conferencing)
 * [Slack](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#slack)
 * [Timesheet](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#timesheet)
 * [Projects](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#projects)
 * [AWS](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#aws)
 
-## Marketing
+## [Marketing](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md)
 * [Website](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#website)
 * [Twitter](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#twitter)
 * [Blogs](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#blogs)
@@ -35,22 +35,22 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * [Corporate](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#corporate)
 * [Trade Shows](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#trade-shows)
 
-## Open Source Projects
+## [Open Source Projects](https://github.com/cingularacorp/handbook/blob/master/opensource/README.md)
 * [OpenRMF](https://github.com/cingularacorp/handbook/blob/master/opensource/README.md#openrmf)
 * [OpenFaaS](https://github.com/cingularacorp/handbook/blob/master/opensource/README.md#openfaas)
 
-## Sales
+## [Sales](https://github.com/cingularacorp/handbook/blob/master/sales/README.md)
 * [Commercial](https://github.com/cingularacorp/handbook/blob/master/sales/README.md#commercial)
 * [Government](https://github.com/cingularacorp/handbook/blob/master/sales/README.md#government)
 
-## Finance
+## [Finance](https://github.com/cingularacorp/handbook/blob/master/finance/README.md)
 * [Fiscal Responsibility](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#fiscal-responsibility)
 * [Board Meetings](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#board-meetings)
 * [Financial Issues](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#financial-issues)
 * [Charities](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#charities)
 * [Sponsorship](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#sponsorship)
 
-## Legal
+## [Legal](https://github.com/cingularacorp/handbook/blob/master/legal/README.md)
 * [Legal Department](https://github.com/cingularacorp/handbook/blob/master/legal/README.md#legal-department)
 * [Compliance](https://github.com/cingularacorp/handbook/blob/master/legal/README.md#compliance)
 
