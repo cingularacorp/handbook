@@ -35,8 +35,8 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * Trade Shows
 
 ## Open Source Projects
-* OpenRMF
-* OpenFaaS
+* [OpenRMF](https://github.com/cingularacorp/handbook/blob/master/opensource/README.md#openrmf)
+* [OpenFaaS](https://github.com/cingularacorp/handbook/blob/master/opensource/README.md#openfaas)
 
 ## Sales
 * [Commercial](https://github.com/cingularacorp/handbook/blob/master/sales/README.md#commercial)
