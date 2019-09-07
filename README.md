@@ -16,6 +16,7 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * Benefits
 * Diversity
 * Continuous Learning
+* Dress Code
 * Self Development
     * Impactful Books to Read/Study
 
