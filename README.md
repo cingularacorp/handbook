@@ -11,14 +11,14 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * [Strategy](https://github.com/cingularacorp/handbook/tree/master/company#strategy)
 * [Areas of Concentration](https://github.com/cingularacorp/handbook/tree/master/company#areas-of-concentration)
 
-## People
-* Hiring
-* Benefits
-* Diversity
-* Continuous Learning
-* Dress Code
-* Self Development
-    * Impactful Books to Read/Study
+## [People](https://github.com/cingularacorp/handbook/tree/master/people)
+* [Hiring](https://github.com/cingularacorp/handbook/tree/master/people#hiring)
+* [Benefits](https://github.com/cingularacorp/handbook/tree/master/people#benefits)
+* [Diversity](https://github.com/cingularacorp/handbook/tree/master/people#diversity)
+* [Continuous Learning](https://github.com/cingularacorp/handbook/tree/master/people#continuous-learning)
+* [Dress Code](https://github.com/cingularacorp/handbook/tree/master/people#dress-code)
+* [Self Development](https://github.com/cingularacorp/handbook/tree/master/people#self-development)
+    * [Impactful Books to Read/Study]
 
 ## Technology
 * Email
@@ -51,3 +51,8 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 ## Legal
 * Legal Department
 * Compliance
+
+## References
+A special thank you to GitLab for their inspiration: https://about.gitlab.com/handbook/.
+
+Markdown Cheat Sheet - https://www.markdownguide.org/cheat-sheet/
