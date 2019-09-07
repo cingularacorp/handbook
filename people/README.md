@@ -41,8 +41,8 @@ Continuous improvement and learning is important at Cingulara. If you are here, 
 ### Impactful Books to Read/Study
 These are books on business, self-improvement, sales (you are always selling whether you realize it or not), and other non-technical things to help you grow into whoever you want to become. 
 
-* How to win Friends & Influence People by Dale Carnegie (audio, hard cover, kindle) https://smile.amazon.com/dp/8189297813/ref=cm_sw_r_tw_dp_U_x_-f.CDbEC0QMMD
-* An Elegant Puzzle: Systems of Engineering Management by Will Larson https://smile.amazon.com/dp/1732265186/ref=cm_sw_r_tw_dp_U_x_Wg.CDbTGFYEW1
-* Little Red Book of Selling: 12.5 Principles of Sales Greatness by Jeffrey Gitomer https://smile.amazon.com/dp/1885167601/ref=cm_sw_r_tw_dp_U_x_Qh.CDbGX1J8Y0 
-* Like a Virgin: Secrets They Won't Teach You at Business School by Richard Branson https://smile.amazon.com/dp/1591845688/ref=cm_sw_r_tw_dp_U_x_lj.CDbN66HFCN 
-* The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey https://smile.amazon.com/dp/B0006IU4C0/ref=cm_sw_r_tw_dp_U_x_Nk.CDbSGWEZ8V 
+* <a href="https://smile.amazon.com/dp/8189297813/ref=cm_sw_r_tw_dp_U_x_-f.CDbEC0QMMD" target="_blank">How to win Friends & Influence People</a> by Dale Carnegie (audio, hard cover, kindle) 
+* <a href="https://smile.amazon.com/dp/1732265186/ref=cm_sw_r_tw_dp_U_x_Wg.CDbTGFYEW1" target="_blank">An Elegant Puzzle: Systems of Engineering Management</a> by Will Larson
+* <a href="https://smile.amazon.com/dp/1885167601/ref=cm_sw_r_tw_dp_U_x_Qh.CDbGX1J8Y0" target="_blank">Little Red Book of Selling: 12.5 Principles of Sales Greatness</a> by Jeffrey Gitomer 
+* <a href="https://smile.amazon.com/dp/1591845688/ref=cm_sw_r_tw_dp_U_x_lj.CDbN66HFCN" target="_blank">Like a Virgin: Secrets They Won't Teach You at Business School</a> by Richard Branson
+* <a href="https://smile.amazon.com/dp/B0006IU4C0/ref=cm_sw_r_tw_dp_U_x_Nk.CDbSGWEZ8V" target="_blank">The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change</a> by Stephen R. Covey 
