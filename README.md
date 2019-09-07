@@ -39,8 +39,8 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * OpenFaaS
 
 ## Sales
-* Commercial
-* Government
+* [Commercial](https://github.com/cingularacorp/handbook/blob/master/sales/README.md#commercial)
+* [Government](https://github.com/cingularacorp/handbook/blob/master/sales/README.md#government)
 
 ## Finance
 * Fiscal Responsibility
@@ -50,8 +50,8 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * Sponsorship
 
 ## Legal
-* Legal Department
-* Compliance
+* [Legal Department](https://github.com/cingularacorp/handbook/blob/master/legal/README.md#legal-department)
+* [Compliance](https://github.com/cingularacorp/handbook/blob/master/legal/README.md#compliance)
 
 ## References
 A special thank you to GitLab for their inspiration: https://about.gitlab.com/handbook/.

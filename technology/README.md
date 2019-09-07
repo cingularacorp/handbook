@@ -19,3 +19,5 @@ OpenRMF is also a project we are currently funding internally.
 ## AWS
 
 We have a corporate AWS account that can be leveraged and used for internal project, external project, hosting, as well as testing out ideas. Our AWS is meant to be kept secure so you do not have free reign. You have guardrails to keep you out of trouble though!
+
+Our current https://www.cingulara.com/ website is hosted using a CDN on AWS using static HTML. We even have our CTO's blog post on that! https://medium.com/@dale.bingham_30375/creating-a-static-website-using-godaddy-github-aws-s3-codedeploy-and-aws-cloudfront-1990a8f4ddd8
