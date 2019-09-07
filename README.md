@@ -28,11 +28,12 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * [AWS](https://github.com/cingularacorp/handbook/blob/master/technology/README.md#aws)
 
 ## Marketing
-* Website
-* Blogs
-* Products
-* Corporate
-* Trade Shows
+* [Website](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#website)
+* [Twitter](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#twitter)
+* [Blogs](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#blogs)
+* [Products](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#products)
+* [Corporate](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#corporate)
+* [Trade Shows](https://github.com/cingularacorp/handbook/blob/master/marketing/README.md#trade-shows)
 
 ## Open Source Projects
 * [OpenRMF](https://github.com/cingularacorp/handbook/blob/master/opensource/README.md#openrmf)
@@ -43,11 +44,11 @@ This is the employee and consultant handbook for the Cingulara company. This goe
 * [Government](https://github.com/cingularacorp/handbook/blob/master/sales/README.md#government)
 
 ## Finance
-* Fiscal Responsibility
-* Board Meetings
-* Financial Issues
-* Charities
-* Sponsorship
+* [Fiscal Responsibility](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#fiscal-responsibility)
+* [Board Meetings](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#board-meetings)
+* [Financial Issues](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#financial-issues)
+* [Charities](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#charities)
+* [Sponsorship](https://github.com/cingularacorp/handbook/blob/master/finance/README.md#sponsorship)
 
 ## Legal
 * [Legal Department](https://github.com/cingularacorp/handbook/blob/master/legal/README.md#legal-department)
